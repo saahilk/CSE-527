@@ -1,2 +1,2 @@
 # CSE-527
-Assignments for Intro to Computer Vision course
+Assignments for Introduction to Computer Vision course
